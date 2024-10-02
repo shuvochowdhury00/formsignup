@@ -62,11 +62,11 @@ label {
 
 /* <!-- input fild start --> */
 
-.input_email_password {
+.input_box {
   margin-bottom: 5px;
 }
 /* ----------------- */
-.input_email_password input,
+.input_box input,
 button {
   width: 100%;
   padding: 10px;
