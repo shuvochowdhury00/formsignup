@@ -66,12 +66,10 @@ label {
   margin-bottom: 5px;
 }
 /* ----------------- */
-.input_box, input,
-button {
-  width: 100%;
-  padding: 10px;
-  border-radius: 5px;
-  margin-top: 5px;
+.input_box, input, button {
+    font-size: 17px;
+    width: 350px;
+    padding: 10px;
 }
 /* <!-- input fild end --> */
 *
