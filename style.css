@@ -68,7 +68,7 @@ label {
 /* ----------------- */
 .input_box, input, button {
     font-size: 17px;
-    width: 350px;
+    width: 100%
     padding: 10px;
 }
 /* <!-- input fild end --> */
